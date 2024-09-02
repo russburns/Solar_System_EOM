@@ -1,4 +1,4 @@
-Recoding I did of a Practical Computing for Scientsts class.
+Recoding I did of a Practical Computing for Scientsts group project.
 Changes:
 *Fixed moon orbit graphing
 *Redid lunar orbit analysis
