@@ -9,4 +9,5 @@ Changes:
 *Created section headers
 *Wrote all new explanations
 *Retitled all plots
+*Eliminated reused code
 *Corrected Units
