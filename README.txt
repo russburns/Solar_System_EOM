@@ -1,4 +1,4 @@
-Recoding I did of a Practical Computing for Scientsts group project.
+Retrospective recoding I did of one of my Practical Computing for Scientsts group projects.
 Changes:
 *Fixed moon orbit graphing
 *Redid lunar orbit analysis
